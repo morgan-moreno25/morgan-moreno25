@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo3811
-Fork on GitHub690
 <h1 align="center">Hi 👋, I'm Morgan Moreno</h1>
 <h3 align="center">Self Taught Developer with a passion for learning</h3>
 
