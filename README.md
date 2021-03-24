@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Morgan Moreno</h1>
 <h3 align="center">Self Taught Developer with a passion for learning</h3>
 
-- 🌱 I’m currently learning **React / Redux, Python, Flask, PostgreSQL**
+- 🌱 I’m currently learning **React / Redux, Node, Express, MongoDB**
 
 - 📫 How to reach me **morgan.moreno25@gmail.com**
 
